@@ -1,0 +1,6 @@
+Hello, this is the first line.
+This file contains both text and numbers: 12345.
+Python is great for file handling!
+Appending this line to the file.
+Here's another line with numbers: 67890.
+File handling in Python is easy and efficient!
